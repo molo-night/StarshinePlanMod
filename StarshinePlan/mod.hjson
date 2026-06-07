@@ -1,0 +1,23 @@
+#the mod name as displayed in-game
+displayName: "星星计划AT-StarshinePlan"
+
+#the internal name of your mod
+name: "xx-java-mod"
+
+#your name
+author: "molo"
+
+#the fully qualified main class of the mod
+main: "xx.xx"
+
+#the mod description as seen in the mod dialog
+description: "SHP-AT附属，但目前SHP-AT有都没有。"
+
+#the mod version
+version: 1.0
+
+#the minimum game build required to run this mod
+minGameVersion: 154
+
+#this is a java mod
+java: true
